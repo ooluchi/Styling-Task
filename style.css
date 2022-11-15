@@ -1,0 +1,47 @@
+* {
+    margin:0;
+    padding:0;
+    /* border-spacing: border-box; */
+}
+
+body{
+    background-color: white;
+    justify-content: right;
+    align-content: right;
+}
+.first-section{
+    color: green;
+    padding: 5px 15px;
+    border: 20px;
+    margin: 10px 10px;
+}
+.first-section h1 {
+    font-size: 18px;
+}
+.first-section p{
+font-size: 14px;
+}
+.second-section{
+    color: red;
+    padding: 5px 15px;
+    border: 20px;
+    margin: 10px 10px;
+}
+.second-section h1 {
+    font-size: 18px;
+}
+.second-section p{
+font-size: 14px;
+}
+.third-section{
+    color: blue;
+    padding: 5px 15px;
+    border: 20px;
+    margin: 10px 10px;
+}
+.third-section h1 {
+    font-size: 18px;
+}
+.third-section p{
+font-size: 14px;
+}
